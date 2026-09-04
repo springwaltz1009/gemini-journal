@@ -51,7 +51,7 @@ export const LandingPage: React.FC<LandingPageProps> = () => {
             A private space to reflect, converse, and grow.
           </h1>
           <p className="text-lg sm:text-xl text-[#7A726D] font-sans leading-relaxed max-w-2xl mx-auto">
-            Write your thoughts in complete privacy. Converse with Gemini to uncover fresh perspectives, generate actionable next steps, and chart your Reflection Compass.
+            Write your thoughts in complete privacy. Explore fresh perspectives and actionable next steps with your Reflection Compass, or talk things through with your Wellbeing Companion whenever you need space to reflect.
           </p>
 
           {/* Action Button */}
