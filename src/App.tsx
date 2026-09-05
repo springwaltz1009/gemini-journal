@@ -83,6 +83,7 @@ export default function App() {
         setEntries([]);
         setCurrentEntry(null);
         setCompassSelectedEntryId(null);
+        setActiveTab('write');
         isInitialLoadRef.current = true;
       }
       setAuthLoading(false);
